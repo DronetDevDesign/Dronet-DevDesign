@@ -76,7 +76,7 @@ header h1 a span {
 header nav a {
   text-decoration: none;
   color: var(--accent-color-med-grey);
-  padding: 8px 20px;
+  padding: 8px 25px;
   text-transform: uppercase;
 }
 
@@ -95,7 +95,7 @@ header nav ul {
 
 header nav li .dronet-resume {
   border: 1px solid var(--accent-color-green);
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 header nav li .dronet-resume:hover {
