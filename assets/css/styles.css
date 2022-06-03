@@ -126,7 +126,7 @@ header nav li .dronet-resume:hover {
   align-items: center;
   background-position: 80%;
   position: relative;
-  /* border-bottom: 5px solid var(--accent-color-md-purple); */
+  border-bottom: 3px solid var(--accent-color-md-purple);
   margin-bottom: 100px;
 }
 
