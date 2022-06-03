@@ -108,7 +108,7 @@ header nav ul {
 /* END: header and navigation section */
 
 /* START: hero and title section */
-main{
+#hero{
   display: flex;
   flex-wrap: wrap;
   width: 100%;
@@ -117,7 +117,7 @@ main{
   justify-content: center;
 }
 
-.hero {
+#hero {
   background-image: url("../images/hero-bkgd.jpg");
   height: 350px;
   background-repeat: no-repeat;
@@ -132,7 +132,7 @@ main{
   border-bottom: 3px solid var(--accent-color-green);
 }
 
-main .hero-title h1 {
+.hero-title h1 {
   font-size: 55px;
   font-weight: 500;
   color: var(--accent-color-pale-grey);
