@@ -35,7 +35,7 @@ https://dronetdevdesign.github.io/Dronet-DevDesign/
     HTML, CSS, JavaScript and React
         
 * Back-end Development:
-    NodeJS. ExpressJS, MongoDB, SQL
+    NodeJS, ExpressJS, MongoDB, and SQL
 
 ### Graphic Design and Illustration:
 * Adobe Software Programs:
