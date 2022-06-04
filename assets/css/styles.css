@@ -80,6 +80,7 @@ header nav a {
   color: var(--accent-color-med-grey);
   padding: 8px 25px;
   text-transform: uppercase;
+  transition: .3s ease-in-out;
 }
 
 header nav a:hover {
@@ -98,6 +99,7 @@ header nav ul {
 header nav li .dronet-resume {
   border: 1px solid var(--accent-color-green);
   margin-left: 25px;
+  transition: .3s ease-in-out;
 }
 
 header nav li .dronet-resume:hover {
@@ -241,6 +243,15 @@ main p {
   outline: 3px solid var(--accent-color-md-purple);
   outline-offset: -1px;
   border-radius: 5px;
+  transition: .2s ease-in-out;
+}
+
+.main-img img:hover {
+  outline: 3px solid var(--accent-color-green);
+  box-shadow: 0px 0px 30px 7px rgba(25, 47, 77, 0.3);
+  transform: scale(1.03);
+  filter: drop-shadow(5px 5px 8px rgba(25, 34, 61, .5)) brightness(0.8);
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, .5);
 }
 
 .img-title {
@@ -276,6 +287,17 @@ main p {
   outline: 3px solid var(--accent-color-md-purple);
   outline-offset: -1px;
   border-radius: 5px;
+  transition: .2s ease-in-out;
+}
+
+.thumbnail-img-01 img:hover,
+.thumbnail-img-02 img:hover,
+.thumbnail-img-03 img:hover,
+.thumbnail-img-04 img:hover {
+  outline: 3px solid var(--accent-color-green);
+  transform: scale(1.02);
+  filter: drop-shadow(4px 6px 7px rgba(25, 34, 61, .5)) brightness(0.8);
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, .5);
 }
 
 #contact-me {
