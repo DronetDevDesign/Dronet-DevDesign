@@ -2,7 +2,7 @@
 Ron Dronet Portfolio Website
 
 ## Purpose:
-DronetDevDesign offers Full-stack Development and Graphic Design in one place. I give my clients the best of both worlds by not only providing the creative and design to push their brand to new heights, but also see projects through to full-stack development from concept to completion.
+DronetDevDesign offers Full-stack Development and Graphic Design in one place. I offer my clients the best of both worlds by not only providing the creative and design to push their brand to new heights, but also seeing projects through to full-stack development from concept to completion.
 
 <br>
 <div align="left">
@@ -11,16 +11,14 @@ DronetDevDesign offers Full-stack Development and Graphic Design in one place. I
 <br>
 
 ## Viewable Responsive Screen Sizes:
-* Desktop: 1900px
+* Desktop: 1800px
 * Media Query Sizes:
   - 980px (Desktop - laptops)
   - 768px (Laptop - tablets)
   - 575px (Small devices - large cell phones)
 
-
 ## Website Link:
-
-
+https://dronetdevdesign.github.io/Dronet-DevDesign/
 
 ## This Website Created Using:
 * HTML
