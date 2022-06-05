@@ -22,6 +22,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: var(--text-color-lt-grey);
   font-family: 'Roboto', sans-serif;

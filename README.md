@@ -1,8 +1,8 @@
-## Dronet-DevDesign / Full-stack Development & Graphic Design:
-Ron Dronet Portfolio Website
+## Dronet-DevDesign / Ron Dronet Portfolio Website:
+Full-stack Developer & Graphic Designer
 
 ## Purpose:
-DronetDevDesign offers Full-stack Development and Graphic Design in one place. I offer my clients the best of both worlds by not only providing the creative and design to push their brand to new heights, but also seeing projects through to full-stack development from concept to completion.
+DronetDevDesign offers Full-stack Development and Graphic Design in one place. I give my clients the best of both worlds by not only providing the creative graphic design to push their brand to new heights, but also seeing projects through to full-stack development from concept to completion.
 
 <br>
 <div align="left">
