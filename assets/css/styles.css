@@ -345,6 +345,10 @@ main p {
   /*HEADER */
   header {
     position: relative;
+    position: -webkit-sticky;
+    position: sticky;
+    z-index: 9999;
+    top: 0;
   }
 
   header .logo-title {
@@ -501,6 +505,13 @@ main p {
 /* -------- MEDIA QUERIES: 768px -------- */
 @media screen and (max-width: 768px) {
 
+  header {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 9999;
+  top: 0;
+  }
+
   /* HERO */
   #hero {
     height: 270px;
@@ -575,6 +586,10 @@ main p {
     width: 600px;
     height: 120px;
     padding: 10px 15px;
+    position: -webkit-sticky;
+    position: sticky;
+    z-index: 9999;
+    top: 0;
   }
 
   header .logo-title {
