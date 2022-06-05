@@ -1,5 +1,5 @@
-## Dronet-DevDesign / Ron Dronet Portfolio Website:
-Full-stack Developer & Graphic Designer
+# Dronet-DevDesign Portfolio Website for Ron Dronet
+## Full-stack Developer & Graphic Designer
 
 ## Purpose:
 DronetDevDesign offers Full-stack Development and Graphic Design in one place. I give my clients the best of both worlds by not only providing the creative graphic design to push their brand to new heights, but also seeing projects through to full-stack development from concept to completion.
@@ -27,7 +27,7 @@ https://dronetdevdesign.github.io/Dronet-DevDesign/
 ## Graphic Software Used:
 * Adobe Photoshop:
     
-    Note: The HERO section background was created using screenshots of my own code then opened up in Photoshop and cropped. Layers were then created to overlap the images. Filters were applied to achieve the dark transparent mood of the background to integrate well with the color palette chosen for the website.
+    Note: The HERO section background was created using screenshots of my own code then opened in Photoshop then each image was cropped. The cropped images were then placed in separate layers so they would overlap. Filters were applied to achieve the dark transparent mood of the background to integrate well with the color palette chosen for the website.
 
 ## Services:
 ### Full-stack Development:

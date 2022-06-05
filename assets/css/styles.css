@@ -505,6 +505,7 @@ main p {
 /* -------- MEDIA QUERIES: 768px -------- */
 @media screen and (max-width: 768px) {
 
+  /*HEADER */
   header {
   position: -webkit-sticky;
   position: sticky;
