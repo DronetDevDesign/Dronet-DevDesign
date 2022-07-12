@@ -230,7 +230,7 @@ main p {
 
 .main-img img {
   position: relative;
-  width: 863px;
+  width: 600px;
   height: auto;
   outline: 3px solid var(--accent-color-md-purple);
   outline-offset: -1px;
