@@ -630,6 +630,7 @@ main p {
 
   /* HERO */
   #hero {
+    justify-content: center;
     margin: 0;
     height: 210px;
     width: 100%;
@@ -637,7 +638,7 @@ main p {
   }
 
   .hero-title h1 {
-    font-size: 26px;
+    font-size: 24px;
     line-height: 1.6;
     align-items: center;
   }
@@ -729,7 +730,7 @@ main p {
 
   .main-img img {
     position: relative;
-    width: 90%;
+    width: 93%;
     margin: 0;
   }
 
