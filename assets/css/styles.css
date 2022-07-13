@@ -1,5 +1,7 @@
+/* FONTS */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
 
+/* CUSTOM VARIABLES */
 :root {
   --background-color-white: #ffffff;
   --accent-color-green: #5BCC15;
@@ -240,10 +242,8 @@ main p {
 
 .main-img img:hover {
   outline: 3px solid var(--accent-color-green);
-  box-shadow: 0px 0px 30px 7px rgba(25, 47, 77, 0.3);
   transform: scale(1.03);
-  filter: drop-shadow(5px 5px 8px rgba(25, 34, 61, .5)) brightness(0.8);
-  box-shadow: 1px 1px 6px rgba(0, 0, 0, .5);
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, .4);
 }
 
 .img-title {
@@ -288,8 +288,7 @@ main p {
 .thumbnail-img-04 img:hover {
   outline: 3px solid var(--accent-color-green);
   transform: scale(1.02);
-  filter: drop-shadow(4px 6px 7px rgba(25, 34, 61, .5)) brightness(0.8);
-  box-shadow: 1px 1px 6px rgba(0, 0, 0, .5);
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, .4);
 }
 
 /* SECTION-03-CONTACT-ME */
@@ -337,7 +336,6 @@ main p {
   justify-content: center;
   text-align: center;
 }
-
 
 /* -------- MEDIA QUERIES: 980px -------- */
 @media screen and (max-width: 980px) {
@@ -501,7 +499,6 @@ main p {
   }
 }
 
-
 /* -------- MEDIA QUERIES: 768px -------- */
 @media screen and (max-width: 768px) {
 
@@ -577,7 +574,6 @@ main p {
     text-align: left;
   }
 }
-
 
 /* -------- MEDIA QUERIES: 575px -------- */
 @media screen and (max-width: 575px) {
